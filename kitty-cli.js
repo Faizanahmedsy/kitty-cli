@@ -81,22 +81,12 @@ const successMessage = `
 
 🎉 Module "${featureName}" created successfully inside src/features! 🎉
 
-🔨 Building Components Structure...
-    ┌───────────────┐
-    │  📂 details  │
-    ├───────────────┤
-    │  📂 list     │
-    ├───────────────┤
-    │  📂 mutate   │
-    └───────────────┘
 
-🚀 [Creating...] 100% Complete! 🚀
-
-✨ You're all set to start building amazing features! ✨
+github: https://github.com/Faizanahmedsy/kitty-cli
 
  ∧,,,∧
 ( •·• ) 
-/  づ♡  Happy Coding! Let's make something awesome! 🌟
+/  づ♡  Happy Coding!  🌟
 `;
 
 // Create the folder structure
